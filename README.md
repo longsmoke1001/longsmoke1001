@@ -6,7 +6,7 @@
 - 3D game developer
 
 ## Projects
-- [Ball Jump](https://github.com/longsmoke1001/ball-jump) – 3D platform game
+- [Ball Jump](https://github.com/longsmoke1001/Game) – 3D platform game
 
 ## Contact
 - Email: huangleo1001@gmail.com
