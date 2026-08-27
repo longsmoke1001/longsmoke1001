@@ -26,5 +26,5 @@ A 3D platformer with 5 levels and various platform mechanics.
 ## 📫 Contact
 
 - Email: huangleo1001@gmail.com
-- LinkedIn: [linkedin.com/in/你的linkedin](https://linkedin.com/in/你的linkedin)
+- LinkedIn: [linkedin.com/in/leo-huang-b294453aa/](https://linkedin.com/in/leo-huang-b294453aa/)
 - Itch.io: [longsmoke1001.itch.io](https://longsmoke1001.itch.io)
