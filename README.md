@@ -56,14 +56,6 @@ A 3D platformer with 5 levels and various mechanics.
 
 ---
 
-## GitHub Stats
-
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=longsmoke1001&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longsmoke1001&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## Currently Learning
 
 - Data Structures & Algorithms (LeetCode 70+ in C++)
