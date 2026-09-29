@@ -14,7 +14,7 @@ I build software with C++, Python, and C#. I enjoy creating things — from REST
 
 ## 📁 Projects
 
-### [Personal Notes API](https://github.com/longsmoke1001/personal-notes-api)
+### [Personal Notes API](https://github.com/longsmoke1001/DotNetRepo)
 A RESTful API built with ASP.NET Core, EF Core, SQLite, and JWT Authentication.
 
 ### [Little Knight](https://github.com/longsmoke1001/game-3-6.0) | [Play](https://longsmoke1001.itch.io/little-knight)
